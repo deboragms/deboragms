@@ -1,5 +1,5 @@
-# Sobre mim:
-🔭 Atualmente estudando e desenvolvendo soluções em Python. <br>👯 Gostaria de participar de eventos de tecnologia no geral.<br>🤝 Buscando conexão com pessoas da área de TI.<br>⚡ Sou apaixonada por tecnologia (mesmo que iniciante), seja no hardware com eletrônica e robótica ou no software com o desenvolvimento de soluções. 
+# Olá, meu nome é Débora 👋 :
+🔭 Atualmente estudando e desenvolvendo soluções em Python. <br>👯 Gosto de participar de eventos de tecnologia no geral.<br>🤝 Buscando conexão com pessoas da área de TI.<br>⚡ Sou apaixonada por tecnologia (mesmo que iniciante), seja no hardware com eletrônica e robótica ou no software com o desenvolvimento de soluções. 
 
 
 ## 🌐 Redes Sociais:
